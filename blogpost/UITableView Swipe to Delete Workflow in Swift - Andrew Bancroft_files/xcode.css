@@ -1,0 +1,123 @@
+/*
+Name: Xcode
+Description: Xcode like color.
+Version: 1.0
+Author: Andrew Bancroft
+URL: */
+*/
+*/
+*/
+*/
+*/
+.crayon-theme-xcode {
+	margin-bottom: 25px !important;
+	background-color: #f8f8ff !important;
+	font-size: 100% !important;
+	line-height: 130% !important;
+	border-style: solid !important;
+	border-width: 1px !important;
+	border-color: #dedede !important;
+}
+.crayon-theme-xcode .crayon-toolbar {
+	background-color: #eee !important;
+	border-bottom-style: solid !important;
+	border-bottom-width: 1px !important;
+	border-bottom-color: #dedede !important;
+}
+.crayon-theme-xcode .crayon-toolbar .crayon-language {
+	font-size: 80% !important;
+	color: #666 !important;
+}
+.crayon-theme-xcode .crayon-toolbar .crayon-title {
+	font-size: 80% !important;
+	color: #666 !important;
+}
+.crayon-theme-xcode .crayon-table .crayon-nums {
+	background-color: #eee !important;
+}
+.crayon-theme-xcode .crayon-table .crayon-nums-content {
+	padding-top: 5px !important;
+	padding-bottom: 3px !important;
+}
+.crayon-theme-xcode .crayon-table .crayon-num {
+	min-width: 1.2em !important;
+	text-align: right !important;
+	color: #aaa !important;
+	border-right-style: solid !important;
+	border-right-width: 1px !important;
+	border-right-color: #dedede !important;
+}
+.crayon-theme-xcode .crayon-pre {
+	padding-top: 5px !important;
+	padding-bottom: 3px !important;
+}
+.crayon-theme-xcode .crayon-marked-line {
+	background: #fffee2 !important;
+}
+.crayon-theme-xcode .crayon-marked-num {
+	color: #1561ac !important;
+	background: #ffffff !important;
+	border-width: 1px !important;
+	border-color: #5999d9 !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-c {
+	color: #008312 !important;
+	font-style: italic !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-s {
+	color: #c41a16 !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-p {
+	color: #b85c00 !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-ta {
+	color: #FF0000 !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-k {
+	color: #508187 !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-st {
+	color: #000000 !important;
+	font-weight: bold !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-r {
+	color: #000000 !important;
+	font-weight: bold !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-t {
+	color: #b833a1 !important;
+	font-weight: bold !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-m {
+	color: #b833a1 !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-i {
+	color: #000000 !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-e {
+	color: #6f41a7 !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-v {
+	color: #508187 !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-cn {
+	color: #1c00cf !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-o {
+	color: #000000 !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-sy {
+	color: #333 !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-n {
+	color: #666 !important;
+	font-style: italic !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-f {
+	color: #999 !important;
+}
+.crayon-theme-xcode .crayon-pre .crayon-h {
+	color: #006fe0 !important;
+}
+.crayon-theme-xcode .crayon-marked-line.crayon-striped-line {
+}
